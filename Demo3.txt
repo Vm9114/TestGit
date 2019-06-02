@@ -1,0 +1,15 @@
+﻿<html>
+<head>
+<title>Html Task one</title>
+</head>
+<body  style="background-color:powderblue;" style="background-image:url('‪C:\Users\varun\Downloads\All\IMG_49467.jpg');">
+<nav>
+<a href="/html/">Air conditioner</a> |
+<a href="/css/">Washing Machine</a> |
+<a href="/js/">Referigrator</a> |
+<a href="/jquery/">Microwave</a>
+</nav>
+<h1> Welcome in Air Assistance</h1><br>
+<hr>
+</body>
+</html>
